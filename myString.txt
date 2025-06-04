@@ -1,0 +1,19 @@
+// Este es un comentario y debe ignorarse
+
+x = 123 + y
+
+resultFin = x1 - ( z2 / 45 )
+
+a3b =0 total
+0000
+1111
+
+001
+
+10
+101
+110
+1001
+
+_calacaschidas 123abc
+_cocacolaespuma
